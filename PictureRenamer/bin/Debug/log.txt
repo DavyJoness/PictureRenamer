@@ -1,0 +1,20 @@
+2019-12-25 14:29:15.2020|INFO|PictureRenamer.ViewModels.MainWindowViewModel|Znaleziono 7 plików
+2019-12-25 14:29:15.4034|INFO|PictureRenamer.ViewModels.MainWindowViewModel|Zmieniono nazwê pliku IMG_2011-09-12 011013 .jpg na IMG_2011-09-12 01.10.13
+2019-12-25 14:29:15.5534|INFO|PictureRenamer.ViewModels.MainWindowViewModel|Zmieniono nazwê pliku IMG_2011-09-12 011040 .jpg na IMG_2011-09-12 01.10.40
+2019-12-25 14:29:15.5794|INFO|PictureRenamer.ViewModels.MainWindowViewModel|Zmieniono nazwê pliku IMG_2011-09-12 011053 .jpg na IMG_2011-09-12 01.10.53
+2019-12-25 14:29:15.6559|INFO|PictureRenamer.ViewModels.MainWindowViewModel|Zmieniono nazwê pliku IMG_2011-09-12 011123 .jpg na IMG_2011-09-12 01.11.23
+2019-12-25 14:29:15.6984|INFO|PictureRenamer.ViewModels.MainWindowViewModel|Zmieniono nazwê pliku IMG_2011-09-12 011138 .jpg na IMG_2011-09-12 01.11.38
+2019-12-25 14:29:15.7334|INFO|PictureRenamer.ViewModels.MainWindowViewModel|Zmieniono nazwê pliku IMG_2011-09-12 011154 .jpg na IMG_2011-09-12 01.11.54
+2019-12-25 14:29:15.7605|INFO|PictureRenamer.ViewModels.MainWindowViewModel|Zmieniono nazwê pliku IMG_2011-09-12 035436 .jpg na IMG_2011-09-12 03.54.36
+2019-12-25 14:35:04.3867|INFO|PictureRenamer.ViewModels.MainWindowViewModel|Znaleziono 10 plików
+2019-12-25 14:35:48.0956|INFO|PictureRenamer.ViewModels.MainWindowViewModel|Znaleziono 10 plików
+2019-12-25 14:35:48.2417|INFO|PictureRenamer.ViewModels.MainWindowViewModel|Zmieniono nazwê pliku SDC10001.JPG na IMG_2008-12-13 16.05.32
+2019-12-25 14:35:48.3668|INFO|PictureRenamer.ViewModels.MainWindowViewModel|Zmieniono nazwê pliku SDC10002.JPG na IMG_2008-12-13 16.07.03
+2019-12-25 14:35:48.5048|INFO|PictureRenamer.ViewModels.MainWindowViewModel|Zmieniono nazwê pliku SDC10007.JPG na IMG_2008-12-13 16.56.28
+2019-12-25 14:35:48.6239|INFO|PictureRenamer.ViewModels.MainWindowViewModel|Zmieniono nazwê pliku SDC10010.JPG na IMG_2008-12-14 08.55.17
+2019-12-25 14:35:48.7350|INFO|PictureRenamer.ViewModels.MainWindowViewModel|Zmieniono nazwê pliku SDC10011.JPG na IMG_2008-12-14 08.55.46
+2019-12-25 14:35:48.7780|INFO|PictureRenamer.ViewModels.MainWindowViewModel|Zmieniono nazwê pliku SDC10012.JPG na IMG_2008-12-14 13.32.50
+2019-12-25 14:35:48.9201|INFO|PictureRenamer.ViewModels.MainWindowViewModel|Zmieniono nazwê pliku SDC10013.JPG na IMG_2008-12-14 14.07.08
+2019-12-25 14:35:49.0632|INFO|PictureRenamer.ViewModels.MainWindowViewModel|Zmieniono nazwê pliku SDC10014.JPG na IMG_2008-12-14 14.07.37
+2019-12-25 14:35:49.2003|INFO|PictureRenamer.ViewModels.MainWindowViewModel|Zmieniono nazwê pliku SDC10015.JPG na IMG_2008-12-14 14.49.47
+2019-12-25 14:35:49.3634|INFO|PictureRenamer.ViewModels.MainWindowViewModel|Zmieniono nazwê pliku SDC10500.JPG na IMG_2011-04-09 17.41.58
